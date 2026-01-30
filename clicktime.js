@@ -490,9 +490,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   window.addEventListener("resize", () => {
     clearTimeout(window.resizeTimer);
-    window.resizeTimer = setTimeout(() => {
-      notification.info("Đã tối ưu hóa giao diện cho kích thước mới");
-    }, 250);
+    window.resizeTimer = setTimeout(() => {}, 250);
   });
 
   window.addEventListener("online", () => {
