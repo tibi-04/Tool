@@ -1288,6 +1288,13 @@
             color: var(--cyan);
         }
 
+        .matrix-bg,
+.cyber-grid,
+.scanlines,
+.code-rain {
+    pointer-events: none;
+}
+
         @media (max-width: 320px) {
             .main-title {
                 font-size: 20px !important;
