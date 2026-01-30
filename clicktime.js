@@ -1,1 +1,519 @@
-eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('G 2S{1v(3E){4.1B=A.16(3E);4.17="5w$€£¥₩<>[]{}()/*+-=~!@#%^&*";4.22=[];4.1E=1y;4.1f()}1f(){4.2x();4.21();z.P("2D",()=>{4.3C();4.2x()})}2x(){g 2w=14;g 3D=f.11(z.5v/2w);3n(1t i=0;i<3D;i++){g F=A.2k("X");F.3w="5u-F";F.w.5t=`${i*2w}3A`;F.w.5s=`${f.q()*2+1}s`;F.w.5r=`${f.q()*5}s`;F.j=4.17[f.11(f.q()*4.17.1d)];4.1B.2j(F);4.22.3y({E:F,3B:f.q()*3+1,1d:f.11(f.q()*30)+10,})}}3C(){4.1B.1g="";4.22=[]}21(){x(!4.1E)1z;4.22.3k((F,5q)=>{g 1q=5p(F.E.w.1q)||-50;x(1q>z.5o){F.E.w.1q="-5n";F.E.j=4.17[f.11(f.q()*4.17.1d)]}1N{F.E.w.1q=`${1q+F.3B}3A`;x(f.q()>0.5m){F.E.j=4.17[f.11(f.q()*4.17.1d)];F.E.w.13=f.q()>0.5?"12(--1u)":"12(--2c)";F.E.w.2s=`0 0 5l ${F.E.w.13}`}}});3r(()=>4.21())}1U(){4.1E=!4.1E;x(4.1E){4.21()}}}G 2R{1v(){4.1B=A.16("5k");4.1Z=[];4.1X=19}1l(1D,W,1W=5j){g 6={2v:3z.2G()+f.q(),1D,W,1W,3u:1e 3z(),};4.1Z.3y(6);4.2u()}2u(){x(4.1X||4.1Z.1d===0)1z;4.1X=1y;g 6=4.1Z.5i();4.3x(6)}3x(6){g E=A.2k("X");E.3w=`6 1D-${6.1D}`;E.2v=`6-${6.2v}`;g 1Y={1b:{1C:"1a-3b-3v",1p:"1HÀ1I CÔ1m",13:"12(--1u)",},J:{1C:"1a-5h-5g",1p:"LỖI",13:"12(--5f)",},18:{1C:"1a-5e",1p:"CẢ1I BÁO",13:"12(--18)",},1c:{1C:"1a-1c-3v",1p:"1HÔ1m BÁO",13:"12(--2c)",},}[6.1D];E.1g=`<X G="6-5d"><X G="6-1p"w="13: ${1Y.13}"><i G="1x ${1Y.1C}"></i>${1Y.1p}<3t G="6-5c">${4.3q(6.3u)}</3t></X><D G="6-5b"5a="4.3s.3s.1Q()"><i G="1x 1a-59"></i></D></X><X G="6-2h">${6.W}</X><X G="6-Y"></X>`;4.1B.2j(E);x(f.q()>0.7){E.1A.2r("58")}3r(()=>{E.1A.2r("1l");g Y=E.2L(".6-Y");Y.w.57=`Y ${6.1W}2E 3a`});V(()=>{E.1A.1Q("1l");V(()=>{E.1Q();4.1X=19;4.2u()},2b)},6.1W)}3q(3p){1z 3p.56("55-54",{53:"2-2t",52:"2-2t",51:"2-2t",})}1b(W){4.1l("1b",W)}J(W){4.1l("J",W)}18(W){4.1l("18",W)}1c(W){4.1l("1c",W)}}G 2Q{1v(){4.1R="4Z.4Y";4.1o=19;4.2o=4X;4.Z=A.16("4W");4.1V=A.16("4V");4.1f()}1f(){4.1V.P("2i",()=>4.1U());A.P("2K",(e)=>{x((e.27||e.4U)&&e.1G==="k"){e.25();4.1U()}});4.1V.P("4T",()=>{x(!4.1o){4.Z.w.2s="0 0 4S 12(--1u)"}});4.1V.P("4R",()=>{x(!4.1o){4.Z.w.2s=""}})}2l 1U(){x(!4.1o){1S 4.3o()}1N{4.2p()}}2l 3o(){4.Z.j="";4.Z.1A.2r("3m");3n(1t i=0;i<4.1R.1d;i++){1S 1e 23((1T)=>V(1T,30));x(f.q()>0.9){4.Z.j+=4.3l();1S 1e 23((1T)=>V(1T,50));4.Z.j=4.Z.j.4Q(0,-1)}4.Z.j+=4.1R[i]}4.1o=1y;6.1b("Đã 4Pải mã 15à4O côQ!");3h{1S 4N.2q.4M(4.1R);6.1c("Đã 4L 1Fép vào 2q")}3d(4K){6.18("4JôQ 15ể 4I cập 2q")}4.2o=V(()=>4.2p(),4H)}2p(){2C(4.2o);4.Z.j="******";4.Z.1A.1Q("3m");4.1o=19;6.1c("Đã ẩn mã")}3l(){g 17="!@#$%^&*()4G+-=[]{}|;:,.<>?";1z 17[f.11(f.q()*17.1d)]}}G 2P{1v(){4.1w=19;4.1f()}1f(){A.4F(".2g-2n").3k((2n)=>{2n.P("2i",(e)=>{g 1P=e.2m.3j.1P;g 1h=e.2m.3j.1h;4.3i(1P,1h,e.2m)})})}2l 3i(1P,1h,D){x(4.1w){6.18("4E lòQ đợi tải 4D 28 2Nện tại");1z}4.1w=1y;g 1j=D.1g;D.1g=`<i G="1x 1a-4C 1a-4B"></i>Đ3e KẾT NỐI...`;D.2f=1y;3h{g 3g=`4A:g 1k=A.2k("a");1k.4z=3g;1k.2g=1h;1k.w.Z="4y";A.2h.2j(1k);1t Y=0;g 3f=34(()=>{Y+=f.q()*20+5;x(Y>=2d){Y=2d;4x(3f);1k.2i();V(()=>{4.3c(D,1j,1h);A.2h.4w(1k)},2b)}D.1g=`<i G="1x 1a-2g"></i>Đ3e TẢI...${f.11(Y)}%<X G="Y-4v"w="4u: ${Y}%"></X>`},4t)}3d(J){24.J("4s J:",J);6.J("Lỗi tải 28");4.35(D,1j)}}3c(D,1j,1h){4.1w=19;D.1g=`<i G="1x 1a-3b"></i>4rÀN TẤT!`;D.w.37="3a-4q(4p, 39(0,38,4o,0.3), 39(0,4n,38,0.3))";D.w.36="12(--1u)";6.1b(`Đãtải:${1h}`);V(()=>{D.1g=1j;D.2f=19;D.w.37="";D.w.36=""},4m)}35(D,1j){4.1w=19;D.1g=1j;D.2f=19}}G 2O{1v(){4.32=A.16("4l");4.2Z=A.16("4k");4.2X=A.16("4j");4.2W=A.16("4i");4.2U=A.16("4h");4.1i=A.16("4g");4.1f()}1f(){4.2e();34(()=>4.2e(),2M)}2e(){g 31=20+f.q()*40;g 2Y=50+f.q()*40;g 1O=(0.8+f.q()*1.5).33(1);g 2V=(4f+f.q()).33(1);g 2T=f.q()>0.1?2d:4e+f.q()*10;4.32.j=`${f.11(31)}%`;4.2Z.j=`${f.11(2Y)}%`;4.2X.j=`${1O}4d`;4.2W.j=`${2V}%`;4.2U.j=`${f.11(2T)}%`;x(1O>2){4.1i.j="4cÊU TỐC";4.1i.w.13="12(--1u)"}1N x(1O>1){4.1i.j="ỔN ĐỊ1I";4.1i.w.13="12(--2c)"}1N{4.1i.j="4bẬM";4.1i.w.13="12(--18)"}}}1t 1M,6,1L,1K,1J;A.P("4a",()=>{1M=1e 2S("49");6=1e 2R();1L=1e 2Q();1K=1e 2P();1J=1e 2O();z.1M=1M;z.6=6;z.1L=1L;z.1K=1K;z.1J=1J;V(()=>{6.1b("48 - HỆ 1HỐ1m ĐÃ SẴN SÀ1m")},2b);V(()=>{6.18("CẢ1I BÁO: 47ỉ 2Nển 15ị mật mã 2A Qười dùQ được ủy 46ền",)},2M);g 1n=A.2L(".45-44");g 1s=1n.j;1n.j="";1t i=0;43 29(){x(i<1s.1d){x(f.q()>0.42){1n.j=1s.2a(0,i)+41.3Z(3Y+f.11(f.q()*26));V(()=>{1n.j=1s.2a(0,i)},50)}1n.j=1s.2a(0,i+1);i++;V(29,50)}}V(29,3X);A.P("2K",(e)=>{x(e.1G==="2J"||(e.27&&e.1G==="h")){e.25();6.1c(`3WÍM TẮT HỆ1HỐ1m:<1r>•2H+K:2Iện/ẩn mật mã<1r>•1-3:Tải 28 tươQứQ<1r>•2J:2Iện 15ôQ báo này<1r>•3V:Ẩn mật mã<1r>•2H+R:Làm mới hệ15ốQ`)}x(e.27&&e.1G==="r"){e.25();6.18("Làm mới hệ 15ốQ...");V(()=>{3U.3T()},3S)}});z.P("3R",()=>{g 2F=3Q.2G();6.1b(`Hệ15ốQ tốiưu hóa:${f.3P(2F)}2E`)});z.P("2D",()=>{2C(z.2B);z.2B=V(()=>{6.1c("Đã tối ưu hóa 3O 3Nện 2A kí1F 15ước mới")},3M)});z.P("3L",()=>{6.1b("Đã 3Kôi 3Jục kết nối mạQ")});z.P("2z",()=>{6.J("MẤT KẾT NỐI MẠ1m - 3Iển 3H 1Fế độ 2z")})});z.P("J",(e)=>{24.J("Hệ 15ốQ lỗi:",e.J);x(z.6){z.6.J(`Lỗi hệ15ốQ:${e.W}`)}});z.P("3G",(e)=>{24.J("23 bị từ 1Fối:",e.2y);x(z.6){z.6.J(`Lỗi 3F:${e.2y}`)}});',62,343,'||||this||notification|||||||||Math|const|||textContent|||||||random||||||style|if||window|document|||button|element|drop|class|||error||||||addEventListener|ng|||||setTimeout|message|div|progress|display||floor|var|color||th|getElementById|chars|warning|false|fa|success|info|length|new|initialize|innerHTML|filename|networkStatusElement|originalText|link|show|NG|systemPath|isRevealed|title|top|br|originalPath|let|primary|constructor|downloading|fas|true|return|classList|container|icon|type|isActive|ch|key|TH|NH|systemMonitor|downloadManager|passwordSystem|matrixRain|else|network|fileId|remove|password|await|resolve|toggle|wrapper|duration|isShowing|config|queue||animate|drops|Promise|console|preventDefault||ctrlKey|file|typePath|substring|500|secondary|100|updateStats|disabled|download|body|click|appendChild|createElement|async|currentTarget|btn|timeout|hide|clipboard|add|textShadow|digit|processQueue|id|fontSize|createDrops|reason|offline|cho|resizeTimer|clearTimeout|resize|ms|loadTime|now|Ctrl|Hi|F1|keydown|querySelector|3000|hi|SystemMonitor|QuantumDownloadManager|QuantumPasswordSystem|CyberNotificationSystem|MatrixRain|power|powerElement|data|dataElement|networkElement|ram|ramElement||cpu|cpuElement|toFixed|setInterval|resetButton|borderColor|background|255|rgba|linear|check|downloadComplete|catch|ANG|interval|downloadUrl|try|downloadFile|dataset|forEach|getRandomChar|revealed|for|reveal|date|formatTime|requestAnimationFrame|parentElement|span|timestamp|circle|className|createNotification|push|Date|px|speed|clearDrops|columns|containerId|promise|unhandledrejection|sang|Chuy|ph|kh|online|250|di|giao|round|performance|load|1000|reload|location|ESC|PH|800|65|fromCharCode||String|95|function|path|system|quy|Ch|ClickTime|codeRain|DOMContentLoaded|CH|SI|Gbps|90|99|networkStatus|powerLevel|dataIntegrity|networkSpeed|ramUsage|cpuLoad|2000|217|136|135deg|gradient|HO|Download|120|width|bar|removeChild|clearInterval|none|href|https|spin|spinner|xong|Vui|querySelectorAll|_|15000|truy|Kh|err|sao|writeText|navigator|nh|gi|slice|mouseleave|20px|mouseenter|metaKey|passwordWrapper|passwordDisplay|null|com|bht||second|minute|hour|VN|vi|toLocaleTimeString|animation|glitch|times|onclick|close|time|header|radiation|danger|triangle|exclamation|shift|4000|notificationContainer|10px|97|50px|innerHeight|parseFloat|index|animationDelay|animationDuration|left|rain|innerWidth|ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'.split('|'),0,{}))
+class MatrixRain {
+  constructor(containerId) {
+    this.container = document.getElementById(containerId);
+    this.chars =
+      "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789$€£¥₩<>[]{}()/*+-=~!@#%^&*";
+    this.drops = [];
+    this.isActive = true;
+    this.initialize();
+  }
+
+  initialize() {
+    this.createDrops();
+    this.animate();
+
+    window.addEventListener("resize", () => {
+      this.clearDrops();
+      this.createDrops();
+    });
+  }
+
+  createDrops() {
+    const fontSize = 14;
+    const columns = Math.floor(window.innerWidth / fontSize);
+
+    for (let i = 0; i < columns; i++) {
+      const drop = document.createElement("div");
+      drop.className = "rain-drop";
+      drop.style.left = `${i * fontSize}px`;
+      drop.style.animationDuration = `${Math.random() * 2 + 1}s`;
+      drop.style.animationDelay = `${Math.random() * 5}s`;
+      drop.textContent =
+        this.chars[Math.floor(Math.random() * this.chars.length)];
+
+      this.container.appendChild(drop);
+      this.drops.push({
+        element: drop,
+        speed: Math.random() * 3 + 1,
+        length: Math.floor(Math.random() * 30) + 10,
+      });
+    }
+  }
+
+  clearDrops() {
+    this.container.innerHTML = "";
+    this.drops = [];
+  }
+
+  animate() {
+    if (!this.isActive) return;
+
+    this.drops.forEach((drop, index) => {
+      const top = parseFloat(drop.element.style.top) || -50;
+
+      if (top > window.innerHeight) {
+        drop.element.style.top = "-50px";
+        drop.element.textContent =
+          this.chars[Math.floor(Math.random() * this.chars.length)];
+      } else {
+        drop.element.style.top = `${top + drop.speed}px`;
+
+        if (Math.random() > 0.97) {
+          drop.element.textContent =
+            this.chars[Math.floor(Math.random() * this.chars.length)];
+          drop.element.style.color =
+            Math.random() > 0.5 ? "var(--primary)" : "var(--secondary)";
+          drop.element.style.textShadow = `0 0 10px ${drop.element.style.color}`;
+        }
+      }
+    });
+
+    requestAnimationFrame(() => this.animate());
+  }
+
+  toggle() {
+    this.isActive = !this.isActive;
+    if (this.isActive) {
+      this.animate();
+    }
+  }
+}
+
+class CyberNotificationSystem {
+  constructor() {
+    this.container = document.getElementById("notificationContainer");
+    this.queue = [];
+    this.isShowing = false;
+  }
+
+  show(type, message, duration = 4000) {
+    const notification = {
+      id: Date.now() + Math.random(),
+      type,
+      message,
+      duration,
+      timestamp: new Date(),
+    };
+
+    this.queue.push(notification);
+    this.processQueue();
+  }
+
+  processQueue() {
+    if (this.isShowing || this.queue.length === 0) return;
+
+    this.isShowing = true;
+    const notification = this.queue.shift();
+    this.createNotification(notification);
+  }
+
+  createNotification(notification) {
+    const element = document.createElement("div");
+    element.className = `notification type-${notification.type}`;
+    element.id = `notification-${notification.id}`;
+
+    const config = {
+      success: {
+        icon: "fa-check-circle",
+        title: "THÀNH CÔNG",
+        color: "var(--primary)",
+      },
+      error: {
+        icon: "fa-exclamation-triangle",
+        title: "LỖI",
+        color: "var(--danger)",
+      },
+      warning: {
+        icon: "fa-radiation",
+        title: "CẢNH BÁO",
+        color: "var(--warning)",
+      },
+      info: {
+        icon: "fa-info-circle",
+        title: "THÔNG BÁO",
+        color: "var(--secondary)",
+      },
+    }[notification.type];
+
+    element.innerHTML = `
+            <div class="notification-header">
+                <div class="notification-title" style="color: ${config.color}">
+                    <i class="fas ${config.icon}"></i>
+                    ${config.title}
+                    <span class="notification-time">${this.formatTime(notification.timestamp)}</span>
+                </div>
+                <button class="notification-close" onclick="this.parentElement.parentElement.remove()">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="notification-body">${notification.message}</div>
+            <div class="notification-progress"></div>
+        `;
+
+    this.container.appendChild(element);
+
+    if (Math.random() > 0.7) {
+      element.classList.add("glitch");
+    }
+
+    requestAnimationFrame(() => {
+      element.classList.add("show");
+
+      const progress = element.querySelector(".notification-progress");
+      progress.style.animation = `progress ${notification.duration}ms linear`;
+    });
+
+    setTimeout(() => {
+      element.classList.remove("show");
+      setTimeout(() => {
+        element.remove();
+        this.isShowing = false;
+        this.processQueue();
+      }, 500);
+    }, notification.duration);
+  }
+
+  formatTime(date) {
+    return date.toLocaleTimeString("vi-VN", {
+      hour: "2-digit",
+      minute: "2-digit",
+      second: "2-digit",
+    });
+  }
+
+  success(message) {
+    this.show("success", message);
+  }
+  error(message) {
+    this.show("error", message);
+  }
+  warning(message) {
+    this.show("warning", message);
+  }
+  info(message) {
+    this.show("info", message);
+  }
+}
+
+class QuantumPasswordSystem {
+  constructor() {
+    this.password = "bht.com";
+    this.isRevealed = false;
+    this.timeout = null;
+    this.display = document.getElementById("passwordDisplay");
+    this.wrapper = document.getElementById("passwordWrapper");
+    this.initialize();
+  }
+
+  initialize() {
+    this.wrapper.addEventListener("click", () => this.toggle());
+
+    document.addEventListener("keydown", (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key === "k") {
+        e.preventDefault();
+        this.toggle();
+      }
+    });
+
+    this.wrapper.addEventListener("mouseenter", () => {
+      if (!this.isRevealed) {
+        this.display.style.textShadow = "0 0 20px var(--primary)";
+      }
+    });
+
+    this.wrapper.addEventListener("mouseleave", () => {
+      if (!this.isRevealed) {
+        this.display.style.textShadow = "";
+      }
+    });
+  }
+
+  async toggle() {
+    if (!this.isRevealed) {
+      await this.reveal();
+    } else {
+      this.hide();
+    }
+  }
+
+  async reveal() {
+    this.display.textContent = "";
+    this.display.classList.add("revealed");
+
+    for (let i = 0; i < this.password.length; i++) {
+      await new Promise((resolve) => setTimeout(resolve, 30));
+
+      if (Math.random() > 0.9) {
+        this.display.textContent += this.getRandomChar();
+        await new Promise((resolve) => setTimeout(resolve, 50));
+        this.display.textContent = this.display.textContent.slice(0, -1);
+      }
+
+      this.display.textContent += this.password[i];
+    }
+
+    this.isRevealed = true;
+    notification.success("Đã giải mã thành công!");
+
+    try {
+      await navigator.clipboard.writeText(this.password);
+      notification.info("Đã sao chép vào clipboard");
+    } catch (err) {
+      notification.warning("Không thể truy cập clipboard");
+    }
+
+    this.timeout = setTimeout(() => this.hide(), 15000);
+  }
+
+  hide() {
+    clearTimeout(this.timeout);
+    this.display.textContent = "******";
+    this.display.classList.remove("revealed");
+    this.isRevealed = false;
+    notification.info("Đã ẩn mã");
+  }
+
+  getRandomChar() {
+    const chars = "!@#$%^&*()_+-=[]{}|;:,.<>?";
+    return chars[Math.floor(Math.random() * chars.length)];
+  }
+}
+
+class QuantumDownloadManager {
+  constructor() {
+    this.downloading = false;
+    this.initialize();
+  }
+
+  initialize() {
+    document.querySelectorAll(".download-btn").forEach((btn) => {
+      btn.addEventListener("click", (e) => {
+        const fileId = e.currentTarget.dataset.fileId;
+        const filename = e.currentTarget.dataset.filename;
+        this.downloadFile(fileId, filename, e.currentTarget);
+      });
+    });
+  }
+
+  async downloadFile(fileId, filename, button) {
+    if (this.downloading) {
+      notification.warning("Vui lòng đợi tải xong file hiện tại");
+      return;
+    }
+
+    this.downloading = true;
+    const originalText = button.innerHTML;
+
+    button.innerHTML = `<i class="fas fa-spinner fa-spin"></i> ĐANG KẾT NỐI...`;
+    button.disabled = true;
+
+    try {
+      const downloadUrl = `https://drive.google.com/uc?export=download&id=${fileId}`;
+
+      const link = document.createElement("a");
+      link.href = downloadUrl;
+      link.download = filename;
+      link.style.display = "none";
+
+      document.body.appendChild(link);
+
+      let progress = 0;
+      const interval = setInterval(() => {
+        progress += Math.random() * 20 + 5;
+
+        if (progress >= 100) {
+          progress = 100;
+          clearInterval(interval);
+
+          link.click();
+
+          setTimeout(() => {
+            this.downloadComplete(button, originalText, filename);
+            document.body.removeChild(link);
+          }, 500);
+        }
+
+        button.innerHTML = `
+                    <i class="fas fa-download"></i>
+                    ĐANG TẢI... ${Math.floor(progress)}%
+                    <div class="progress-bar" style="width: ${progress}%"></div>
+                `;
+      }, 120);
+    } catch (error) {
+      console.error("Download error:", error);
+      notification.error("Lỗi tải file");
+      this.resetButton(button, originalText);
+    }
+  }
+
+  downloadComplete(button, originalText, filename) {
+    this.downloading = false;
+
+    button.innerHTML = `<i class="fas fa-check"></i> HOÀN TẤT!`;
+    button.style.background =
+      "linear-gradient(135deg, rgba(0,255,136,0.3), rgba(0,217,255,0.3))";
+    button.style.borderColor = "var(--primary)";
+
+    notification.success(`Đã tải: ${filename}`);
+
+    setTimeout(() => {
+      button.innerHTML = originalText;
+      button.disabled = false;
+      button.style.background = "";
+      button.style.borderColor = "";
+    }, 2000);
+  }
+
+  resetButton(button, originalText) {
+    this.downloading = false;
+    button.innerHTML = originalText;
+    button.disabled = false;
+  }
+}
+
+class SystemMonitor {
+  constructor() {
+    this.cpuElement = document.getElementById("cpuLoad");
+    this.ramElement = document.getElementById("ramUsage");
+    this.networkElement = document.getElementById("networkSpeed");
+    this.dataElement = document.getElementById("dataIntegrity");
+    this.powerElement = document.getElementById("powerLevel");
+    this.networkStatusElement = document.getElementById("networkStatus");
+    this.initialize();
+  }
+
+  initialize() {
+    this.updateStats();
+    setInterval(() => this.updateStats(), 3000);
+  }
+
+  updateStats() {
+    const cpu = 20 + Math.random() * 40;
+    const ram = 50 + Math.random() * 40;
+    const network = (0.8 + Math.random() * 1.5).toFixed(1);
+    const data = (99 + Math.random()).toFixed(1);
+    const power = Math.random() > 0.1 ? 100 : 90 + Math.random() * 10;
+
+    this.cpuElement.textContent = `${Math.floor(cpu)}%`;
+    this.ramElement.textContent = `${Math.floor(ram)}%`;
+    this.networkElement.textContent = `${network}Gbps`;
+    this.dataElement.textContent = `${data}%`;
+    this.powerElement.textContent = `${Math.floor(power)}%`;
+
+    if (network > 2) {
+      this.networkStatusElement.textContent = "SIÊU TỐC";
+      this.networkStatusElement.style.color = "var(--primary)";
+    } else if (network > 1) {
+      this.networkStatusElement.textContent = "ỔN ĐỊNH";
+      this.networkStatusElement.style.color = "var(--secondary)";
+    } else {
+      this.networkStatusElement.textContent = "CHẬM";
+      this.networkStatusElement.style.color = "var(--warning)";
+    }
+  }
+}
+
+let matrixRain, notification, passwordSystem, downloadManager, systemMonitor;
+
+document.addEventListener("DOMContentLoaded", () => {
+  matrixRain = new MatrixRain("codeRain");
+  notification = new CyberNotificationSystem();
+  passwordSystem = new QuantumPasswordSystem();
+  downloadManager = new QuantumDownloadManager();
+  systemMonitor = new SystemMonitor();
+
+  window.matrixRain = matrixRain;
+  window.notification = notification;
+  window.passwordSystem = passwordSystem;
+  window.downloadManager = downloadManager;
+  window.systemMonitor = systemMonitor;
+
+  setTimeout(() => {
+    notification.success("ClickTime - HỆ THỐNG ĐÃ SẴN SÀNG");
+  }, 500);
+
+  setTimeout(() => {
+    notification.warning(
+      "CẢNH BÁO: Chỉ hiển thị mật mã cho người dùng được ủy quyền",
+    );
+  }, 3000);
+
+  const systemPath = document.querySelector(".system-path");
+  const originalPath = systemPath.textContent;
+  systemPath.textContent = "";
+
+  let i = 0;
+  function typePath() {
+    if (i < originalPath.length) {
+      if (Math.random() > 0.95) {
+        systemPath.textContent =
+          originalPath.substring(0, i) +
+          String.fromCharCode(65 + Math.floor(Math.random() * 26));
+        setTimeout(() => {
+          systemPath.textContent = originalPath.substring(0, i);
+        }, 50);
+      }
+
+      systemPath.textContent = originalPath.substring(0, i + 1);
+      i++;
+      setTimeout(typePath, 50);
+    }
+  }
+  setTimeout(typePath, 800);
+
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "F1" || (e.ctrlKey && e.key === "h")) {
+      e.preventDefault();
+      notification.info(`
+                PHÍM TẮT HỆ THỐNG:<br>
+                • Ctrl+K: Hiện/ẩn mật mã<br>
+                • 1-3: Tải file tương ứng<br>
+                • F1: Hiện thông báo này<br>
+                • ESC: Ẩn mật mã<br>
+                • Ctrl+R: Làm mới hệ thống
+            `);
+    }
+
+    if (e.ctrlKey && e.key === "r") {
+      e.preventDefault();
+      notification.warning("Làm mới hệ thống...");
+      setTimeout(() => {
+        location.reload();
+      }, 1000);
+    }
+  });
+
+  window.addEventListener("load", () => {
+    const loadTime = performance.now();
+    notification.success(`Hệ thống tối ưu hóa: ${Math.round(loadTime)}ms`);
+  });
+
+  window.addEventListener("resize", () => {
+    clearTimeout(window.resizeTimer);
+    window.resizeTimer = setTimeout(() => {
+      notification.info("Đã tối ưu hóa giao diện cho kích thước mới");
+    }, 250);
+  });
+
+  window.addEventListener("online", () => {
+    notification.success("Đã khôi phục kết nối mạng");
+  });
+
+  window.addEventListener("offline", () => {
+    notification.error("MẤT KẾT NỐI MẠNG - Chuyển sang chế độ offline");
+  });
+});
+
+window.addEventListener("error", (e) => {
+  console.error("Hệ thống lỗi:", e.error);
+  if (window.notification) {
+    window.notification.error(`Lỗi hệ thống: ${e.message}`);
+  }
+});
+
+window.addEventListener("unhandledrejection", (e) => {
+  console.error("Promise bị từ chối:", e.reason);
+  if (window.notification) {
+    window.notification.error(`Lỗi promise: ${e.reason}`);
+  }
+});
